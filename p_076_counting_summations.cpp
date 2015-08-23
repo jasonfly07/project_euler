@@ -8,7 +8,7 @@
 // How many ways are there to sum up 100?
 
 // (n, k, s) means divide n into (k+1) groups, starting at s
-// ex. (60, 5, 23) means divide 60 into 6 groups with the smallest group being 23
+// ex. (60, 5, 7) means divide 60 into 6 groups with the smallest group being 7
 
 #include <iostream>
 #include <vector>
